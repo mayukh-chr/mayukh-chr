@@ -23,13 +23,13 @@ const tenorLinks = [
       "https://media.tenor.com/Nx5Dg2lKTtQAAAAj/cat-jump-happy-happy-happy.gif"
     ];
 
-    // Randomly select a tenor link
+    
 const randomTenorLink = tenorLinks[Math.floor(Math.random() * tenorLinks.length)];
 
-    // Set the src attribute of the image element to the random tenor link
+   
 document.getElementById("gif").src = randomTenorLink;
 
-    // Refresh the page every 3 minutes
+    
 setInterval(() => {
       location.reload();
     }, 5);

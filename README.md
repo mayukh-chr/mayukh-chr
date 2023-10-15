@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![header](https://media.tenor.com/Cnzwo7bnt8AAAAAC/monkey-zen.gif)
 
-<span style="font-size: 18px;">[My Portfolio](https://mayukh.simple.ink)</span>
+<span style="font-size: 38px;">[My Portfolio](https://mayukh.simple.ink)</span>
 
 
 [My Portfolio](https://mayukh.simple.ink)

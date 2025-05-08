@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zuumtdcue8fsfcq8owwju8i8x&cover_image=false&theme=compact&show_offline=false&background_color=000000&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=zuumtdcue8fsfcq8owwju8i8x&redirect=true)
 
 <p align="left">
-  <img src="https://media.tenor.com/Cnzwo7bnt8AAAAAC/monkey-zen.gif" alt="header" />
+  <img src="https://media.tenor.com/Cnzwo7bnt8AAAAAC/monkey-zen.gif" alt="header" width="320" />
 </p>
 
 <h3 align="left">Connect with me:</h3>

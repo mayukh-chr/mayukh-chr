@@ -14,7 +14,7 @@ I spend most of my time working on machine learning systems and backend infrastr
 
 I also love photography and games while the GPUs are doing the heavy lifting
 
-I occasionally [write](mayukh.me).
+I occasionally [write](https://mayukh.me/).
 
 こんにちは 👋 Mayukh Sahaです。
 
@@ -24,7 +24,7 @@ MLとバックエンドを中心にいろいろ。
 
 GPUに仕事を任せている間は、写真を撮ったりゲームをしたりしています。
 
-たまに[書きます](mayukh.me)。
+たまに[書きます](https://mayukh.me/)。
 
 
 ### reach out (連絡先)
